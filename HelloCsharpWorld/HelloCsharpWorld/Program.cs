@@ -10,7 +10,8 @@ namespace HelloCsharpWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("안녕 C# 월드");          
+            Console.WriteLine("안녕 C# 월드");       
+            Console.WriteLine("안녕 C# 월드");
             Console.WriteLine("Hello C# World!"); // Line : 줄바꿈 기능
         }
     }
