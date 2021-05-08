@@ -19,6 +19,14 @@ namespace Chap02_01
             ushort d = 200;
             // ushort 자료형의 size는 2바이트(16bit),
             // 표현 범위는 0 ~ 65535, 0 ~  2의 16승 - 1 -> 0
+            int e = 70000;
+            // int 자료형의 size는 4바이트(32bit),
+            // 표현 범위는 -2의 31승 ~  2의 31승 - 1 
+            uint f = 2500000000;
+            // uint 자료형의 size는 4바이트(32bit),
+            // 표현 범위는 0 ~  2의 32승 - 1 ( 42억)
+
+            // long, ulong 각각 8바이트
 
             a = 255;
             Console.WriteLine(a);
