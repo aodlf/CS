@@ -1,0 +1,16 @@
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\bin\Debug\net5.0\HelloCsharpWorld.exe
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\bin\Debug\net5.0\HelloCsharpWorld.deps.json
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\bin\Debug\net5.0\HelloCsharpWorld.runtimeconfig.json
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\bin\Debug\net5.0\HelloCsharpWorld.runtimeconfig.dev.json
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\bin\Debug\net5.0\HelloCsharpWorld.dll
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\bin\Debug\net5.0\ref\HelloCsharpWorld.dll
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\bin\Debug\net5.0\HelloCsharpWorld.pdb
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\obj\Debug\net5.0\HelloCsharpWorld.csprojAssemblyReference.cache
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\obj\Debug\net5.0\HelloCsharpWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\obj\Debug\net5.0\HelloCsharpWorld.AssemblyInfoInputs.cache
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\obj\Debug\net5.0\HelloCsharpWorld.AssemblyInfo.cs
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\obj\Debug\net5.0\HelloCsharpWorld.csproj.CoreCompileInputs.cache
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\obj\Debug\net5.0\HelloCsharpWorld.dll
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\obj\Debug\net5.0\ref\HelloCsharpWorld.dll
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\obj\Debug\net5.0\HelloCsharpWorld.pdb
+C:\Users\sueng\Desktop\CS\HelloCsharpWorld\HelloCsharpWorld\obj\Debug\net5.0\HelloCsharpWorld.genruntimeconfig.cache
