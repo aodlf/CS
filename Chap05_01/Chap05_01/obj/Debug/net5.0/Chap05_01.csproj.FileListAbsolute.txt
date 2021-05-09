@@ -1,0 +1,16 @@
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\bin\Debug\net5.0\Chap05_01.exe
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\bin\Debug\net5.0\Chap05_01.deps.json
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\bin\Debug\net5.0\Chap05_01.runtimeconfig.json
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\bin\Debug\net5.0\Chap05_01.runtimeconfig.dev.json
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\bin\Debug\net5.0\Chap05_01.dll
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\bin\Debug\net5.0\ref\Chap05_01.dll
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\bin\Debug\net5.0\Chap05_01.pdb
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\obj\Debug\net5.0\Chap05_01.csprojAssemblyReference.cache
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\obj\Debug\net5.0\Chap05_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\obj\Debug\net5.0\Chap05_01.AssemblyInfoInputs.cache
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\obj\Debug\net5.0\Chap05_01.AssemblyInfo.cs
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\obj\Debug\net5.0\Chap05_01.csproj.CoreCompileInputs.cache
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\obj\Debug\net5.0\Chap05_01.dll
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\obj\Debug\net5.0\ref\Chap05_01.dll
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\obj\Debug\net5.0\Chap05_01.pdb
+C:\Users\sueng\Desktop\CS\Chap05_01\Chap05_01\obj\Debug\net5.0\Chap05_01.genruntimeconfig.cache
