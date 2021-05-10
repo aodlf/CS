@@ -14,7 +14,7 @@ namespace Chap05_03
         {
             Animal("강아지");
             Animal("고양이", "암컷");
-            Animal(gender: "수컷", type: "돼지");
+            Animal(gender: "수컷", type: "돼지이");
         }
 
         /*
