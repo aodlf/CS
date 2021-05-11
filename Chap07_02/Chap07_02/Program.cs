@@ -1,4 +1,4 @@
-﻿// 인터페이스, 추상클래스
+﻿// 인터페이스
 using System;
 
 namespace Chap07_02
