@@ -6,7 +6,7 @@ namespace Chap08_01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worlddddddd!");
+            Console.WriteLine("Hello Worldddddddd!");
         }
     }
 }
